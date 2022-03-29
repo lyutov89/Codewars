@@ -7,6 +7,7 @@ __list of tasks__
 * [Manhattan distance](https://github.com/lyutov89/Codewars/blob/dev-master/6kyu/Manhattan_distance.ipynb) (6kyu)
 * [Array.diff](https://github.com/lyutov89/Codewars/blob/dev-master/6kyu/Array_diff.ipynb) (6kyu)
 * [Who likes it?](https://github.com/lyutov89/Codewars/blob/dev-master/6kyu/Who_likes_it.ipynb) (6kyu)
+* [Find the odd int](https://github.com/lyutov89/Codewars/blob/dev-master/6kyu/Find_the_odd_int.ipynb) (6kyu)
 
 
 
